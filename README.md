@@ -36,6 +36,9 @@ Mobile-controlled smart home system using ATMega328P microcontroller.
 ### Proteus Simulation
 ![Proteus](Images/proteus-simulation.png)
 
+## Demo Video
+[Watch Demo Video](https://drive.google.com/file/d/1wxv-3XMYAG9dvBYq3w26kARM5Y-2z9gA/view?usp=drive_link)
+
 ## Future Improvements
 - Wi-Fi remote control
 - RTOS-based task scheduling
